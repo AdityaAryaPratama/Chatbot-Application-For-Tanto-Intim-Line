@@ -5,9 +5,10 @@ Chatbot atau disebut juga chatterbot adalah sebuah program yang dirancang sebaga
 
 # Batasan Masalah
 Aplikasi ini berfungsi sebagai aplikasi perantara user (konsumen) dengan pihak Tanto Intim Line melalui aplikasi chatbot ini. Agar program yang dibuat mampu merespon pertanyaan ataupun komentar dari pengguna dalam sebuah dialog, maka perlu dibuat batasan-batasan yang diberikan, yaitu:
-A. Dialog dilakukan dalam bahasa Indonesia yang sesuai dengan EYD (Ejaan Yang Disempurnakan) seperti kata “nomor” bukan “nomer”.
-B. Chatbot ini hanya mengenal percakapan dengan parameter terbatas. Seperti nama kapal lalu bilangan untuk menentukan jumlah peti kemas dan kumpulan kata yang sesuai dengan petunjuk pada program chatbot.
-C. Topik dialog dibatasi seputar informasi mengenai PT Tanto Intim Line.
-D. Chatbot ini hanya menyajikan informasi mengenai keberangkatan kapal dari pelabuhan Jakarta dan Surabaya dikarenakan memiliki jadwal yang padat dan tidak mengalami perubahan dari waktu ke waktu.
-E. Chatbot ini menggunakan media sosial Telegram dikarenakan BOT API dirilis open source dan proses backup-nya menggunakan cloud-based.
+
+* Dialog dilakukan dalam bahasa Indonesia yang sesuai dengan EYD (Ejaan Yang Disempurnakan) seperti kata “nomor” bukan “nomer”.
+* Chatbot ini hanya mengenal percakapan dengan parameter terbatas. Seperti nama kapal lalu bilangan untuk menentukan jumlah peti kemas dan kumpulan kata yang sesuai dengan petunjuk pada program chatbot.
+* Topik dialog dibatasi seputar informasi mengenai PT Tanto Intim Line.
+* Chatbot ini hanya menyajikan informasi mengenai keberangkatan kapal dari pelabuhan Jakarta dan Surabaya dikarenakan memiliki jadwal yang padat dan tidak mengalami perubahan dari waktu ke waktu.
+* Chatbot ini menggunakan media sosial Telegram dikarenakan BOT API dirilis open source dan proses backup-nya menggunakan cloud-based.
 
